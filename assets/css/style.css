@@ -1,0 +1,39 @@
+tbody {
+    font-size: small;
+}
+button.btn.btn-outline-primary {
+    margin-bottom: 8px;
+}
+
+label.form-label {
+    font-size: larger;
+}
+
+.form-group {
+    margin-bottom: 5px;
+}
+
+.form-check {
+    margin-bottom: 7px !important;
+}
+
+.row {
+    margin-top: 5% !important;
+}
+.btnu {
+    color: black;
+    margin: 0px 2px;
+    text-decoration: none;
+}
+i.fas.fa-edit {
+    color: black;
+    background-color: #ffbf4b;
+    padding: 2px;
+    border-radius: 4px;
+}
+i.fas.fa-trash {
+    color: navajowhite;
+    background-color: red;
+    padding: 2px;
+    border-radius: 4px;
+}
